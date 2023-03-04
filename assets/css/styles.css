@@ -1,0 +1,68 @@
+body {
+    background-color: darkgray;
+}
+
+.card {
+    background-color: #7ba238;
+    text-align: center;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+.card img {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.card-title {
+    color: #fff;
+}
+
+.card .form {
+    display: block;
+}
+
+.card .form .inputs {
+    padding: 10px;
+}
+
+.card .form .inputs input {
+    border-radius: 10px;
+}
+
+.card .result {
+    text-align: left;
+    margin-left: 20%;
+    color: #fff;
+}
+
+.card .btn {
+    padding: 0px;
+    margin: 0px;
+    background-color: #e2a30b;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+    box-shadow: 2px 2px #000;
+}
+
+.dot {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin: 5px;
+    background-color: #000;
+}
+
+.result {
+    display: flex;
+}
+
+.footer-elem {
+    display: flex;
+}
+
